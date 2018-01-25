@@ -1,8 +1,8 @@
 {
-	"name": "Literally a Language",
-	"description": "It's literally a language.",
+	"name": "中文繁體化",
+	"description": "文本轉換成中文",
 	"version": "1.0.0",
-	"author": "Spacetech",
+	"author": "TBFung",
 	"unloadable": true,
 	"compatibleMinorVersions": [
 		5
